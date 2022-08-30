@@ -1,0 +1,70 @@
+.corpo {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    width: 1479px;
+    height: 1016px;
+    background: #FFFFFF;
+    size: 92,4375em, 63,5em;
+}
+#elian {
+    position: absolute;
+    width: 362px;
+    height: 148px;
+    left: 511px;
+    top: 73px;
+
+    font-family: 'Inter', Arial;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 150px;
+    line-height: 182px;
+
+    color: #5D008F;
+}
+#sobrenome {
+    position: absolute;
+    width: 777px;
+    height: 269px;
+    left: 512px;
+    top: 208px;
+
+    font-family: 'Inter', Arial;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 120px;
+    line-height: 145px;
+
+    color: #7B45D2;
+}
+#rectangle {
+    position: absolute;
+    width: 1219px;
+    height: 29px;
+    left: 1275px;
+    top: 508px;
+
+    background: #7E4FCB;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#profissão {
+    position: absolute;
+    width: 1101px;
+    height: 382px;
+    left: 196px;
+    top: 406px;
+
+    font-family: 'Inter', Arial;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 110px;
+    line-height: 133px;
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+
+    color: #7B45D2;
+}
